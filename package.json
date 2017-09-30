@@ -1,0 +1,23 @@
+{
+  "name": "shermam-miranda",
+  "version": "1.0.0",
+  "description": "Personal Website",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shermam/shermam-miranda.git"
+  },
+  "keywords": [
+    "personal",
+    "website"
+  ],
+  "author": "Shermam Miranda",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shermam/shermam-miranda/issues"
+  },
+  "homepage": "https://github.com/shermam/shermam-miranda#readme"
+}
